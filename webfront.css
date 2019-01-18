@@ -85,7 +85,7 @@ div.ipsWebFront {
 	padding-right: 10px; }
 
 .ipsIconIPS {
-	background-image: url(/skins/SkinMehrwertLight/img/IPS.svg)!important;
+	background-image: url(img/IPS.svg)!important;
 	filter: invert(0)!important;
 }
 
@@ -498,7 +498,7 @@ div.ipsPanel.ipsDWDReport .title {
  */	
 
 .ipsLogin .logoTop {
-	background-image: url(/skins/SkinMehrwertLight/img/mehrwertenergielogo.svg);
+	background-image: url(img/mehrwertenergielogo.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	position: fixed;
